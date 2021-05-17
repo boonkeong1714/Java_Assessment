@@ -1,2 +1,1 @@
-# Java_Assessment
-StudentGen project
+# Java Assessment: StudentGen project
