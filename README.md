@@ -1,6 +1,6 @@
 # Java Assessment: StudentGen project
 
-![Find My Hat Interface](https://raw.githubusercontent.com/boonkeong1714/JS_Assessment/main/findmyhat.jpg)
+![StudentGen Interface](https://github.com/boonkeong1714/Java_Assessment/blob/main/studentgen.jpg)
   
 **some additional customization:**  
  - Added color to path, hat and trap to see them easier
