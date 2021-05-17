@@ -3,9 +3,9 @@
 ![StudentGen Interface](https://github.com/boonkeong1714/Java_Assessment/blob/main/studentgen.jpg)
   
 **some additional customization:**  
- - Added color to path, hat and trap to see them easier
- - Changed navigation keys to WASD for easier control
- - Added instructions rules
+ - Added some pre-defined students in StudentService
+ - Modified Birthdate display to more readable format
+ - Added a HashMap in Student to store grade
 
 
 **===== Reflection Questions: =====**  
