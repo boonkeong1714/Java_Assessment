@@ -7,8 +7,8 @@
  - Changed navigation keys to WASD for easier control
  - Added instructions rules
 
-======
-**Reflection Questions:**  
+
+**===== Reflection Questions: =====**  
 *1. What did you like about this project?*  
 I can use what I learned in Java to create/modify real application.
 
