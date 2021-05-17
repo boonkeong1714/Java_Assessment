@@ -13,11 +13,13 @@
 I can use what I learned in Java to create/modify real application.
   
   
+  
 *2. What did you struggle with in this project?*  
  - OOP is like spider web: classes, objects, attributes and methods are intertwined together
  - need to find a good way to name all classes and methods
  - Java modifier is confusing, don't know when to use which one: public? private? static? void?
  - Reading someone else's code is challenging, need to figure out why the code is written in this way
+  
   
   
 *3. What would make your experience with this assessment better?*  
