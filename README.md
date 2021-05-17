@@ -8,7 +8,7 @@
  - Added a HashMap in Student to store grade
 
 
-**===== Reflection Questions: =====**  
+**===== Reflection Questions =====**  
 *1. What did you like about this project?*  
 I can use what I learned in Java to create/modify real application. </p>  
   
